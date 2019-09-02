@@ -1,4 +1,4 @@
-from api1 import app
+from apis import app
 import json
 import random
 
